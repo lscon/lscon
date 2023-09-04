@@ -5,7 +5,6 @@ Entusiasta de Software Livre e \paixonado por tecnologia. Trabalho com suporte t
 Atualmente, estou em uma fase de transição de carreira, buscando novos desafios e oportunidades. Estou dedicando meu tempo ao estudo de DevOps e ao desenvolvimento Fullstack, reconhecendo a importância de adquirir novas habilidades para me manter relevante em um campo tão dinâmico.
 
 ### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/lucimar_scon)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lucimar-scon/)
 
 
