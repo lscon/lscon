@@ -1,6 +1,6 @@
 
 # Lucimar da Silva
-Entusiasta de Software Livre e \paixonado por tecnologia. Trabalho com suporte técnico e administração de redes e servidores.
+Entusiasta de Software Livre e apaixonado por tecnologia. Trabalho com suporte técnico e administração de redes e servidores.
 
 Atualmente, estou em uma fase de transição de carreira, buscando novos desafios e oportunidades. Estou dedicando meu tempo ao estudo de DevOps e ao desenvolvimento Fullstack, reconhecendo a importância de adquirir novas habilidades para me manter relevante em um campo tão dinâmico.
 
@@ -29,6 +29,7 @@ Atualmente, estou em uma fase de transição de carreira, buscando novos desafio
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lscon&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lscon&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ---
