@@ -1,8 +1,9 @@
 
 # Lucimar da Silva
-Entusiasta de Software Livre e apaixonado por tecnologia. Trabalho com suporte técnico e administração de redes e servidores.
-
-Atualmente, estou em uma fase de transição de carreira, buscando novos desafios e oportunidades. Estou dedicando meu tempo ao estudo de DevOps e ao desenvolvimento Fullstack, reconhecendo a importância de adquirir novas habilidades para me manter relevante em um campo tão dinâmico.
+👨‍💻 Entusiasta de Software Livre | Profissional de TI com experiência em suporte, redes e servidores
+🚀 Atualmente estudando DevOps e desenvolvimento Fullstack
+🔧 Interesse em automação, infraestrutura como código, CI/CD e aplicações web
+💡 Apaixonado por aprender, compartilhar conhecimento e contribuir com a comunidade
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lucimar-scon/)
