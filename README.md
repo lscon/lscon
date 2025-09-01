@@ -1,8 +1,8 @@
 
 # Lucimar da Silva
-👨‍💻 Entusiasta de Software Livre | Profissional de TI com experiência em suporte, redes e servidores.
-🚀 Atualmente estudando DevOps e desenvolvimento Fullstack.
-🔧 Interesse em automação, infraestrutura como código, CI/CD e aplicações web.
+👨‍💻 Entusiasta de Software Livre | Profissional de TI com experiência em suporte, redes e servidores.\
+🚀 Atualmente estudando DevOps e desenvolvimento Fullstack.\
+🔧 Interesse em automação, infraestrutura como código, CI/CD e aplicações web.\
 💡 Apaixonado por aprender, compartilhar conhecimento e contribuir com a comunidade.
 
 ### Conecte-se comigo
