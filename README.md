@@ -1,15 +1,15 @@
 
 # Lucimar da Silva
-👨‍💻 Entusiasta de Software Livre | Profissional de TI com experiência em suporte, redes e servidores.\
-🚀 Atualmente estudando DevOps e desenvolvimento Fullstack.\
-🔧 Interesse em automação, infraestrutura como código, CI/CD e aplicações web.\
-💡 Apaixonado por aprender, compartilhar conhecimento e contribuir com a comunidade.
+👨‍💻 Open Source Enthusiast | IT Professional with experience in support, networking, and servers.\
+🚀 Currently studying DevOps and Fullstack development.\
+🔧 Interests in automation, Infrastructure as Code, CI/CD, and web applications.\
+💡 Passionate about learning, sharing knowledge, and contributing to the community.
 
-### Conecte-se comigo
+### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lucimar-scon/)
 
 
-### Habilidades
+### Skills
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=30A3DC)
